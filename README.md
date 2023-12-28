@@ -1,11 +1,14 @@
-### Hi there <a href="https://dantulpa.pro/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Howdy! 
+<a href="https://dantulpa.pro/"><img src="https://media.giphy.com/media/RpfIXomvjCh8I/giphy.gif" width="30%"></a>
+
 This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🔭 &nbsp;I’m currently working on a [Clone of Medium News](https://dtulpa-medium-clone.netlify.app/) using ONLY Next.js & TailwindCSS (Libraries are too easy😉)
 - 🌱 &nbsp;I’m currently learning Next.js, Supabase, & Rust
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Next/React/Express
 - 👨‍💻 &nbsp;Read more about my projects at [dantulpa.pro](https://dantulpa.pro/#project)
 - ⚡ &nbsp;Fun fact: I hiked over 130 miles & 30k feet elevation in 2023
+- 🏈 &nbsp;Less fun fact: You won't meet a bigger Chicago Bears fan than me
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
