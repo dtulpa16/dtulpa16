@@ -1,9 +1,9 @@
 ### Howdy! 
-<a href="https://dantulpa.pro/"><img src="https://media.giphy.com/media/RpfIXomvjCh8I/giphy.gif" width="30%"></a>
+<a href="https://dantulpa.pro/"><img src="https://media.giphy.com/media/RpfIXomvjCh8I/giphy.gif" width="50%"></a>
 
 This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 &nbsp;I’m currently working on a [Clone of Medium News](https://dtulpa-medium-clone.netlify.app/) using ONLY Next.js & TailwindCSS (Libraries are too easy😉)
+- 🔭 &nbsp;I’m currently working on a [Clone of Medium News](https://dtulpa-medium-clone.netlify.app/) using ONLY Next.js & TailwindCSS (Component libraries are too easy😉)
 - 🌱 &nbsp;I’m currently learning Next.js, Supabase, & Rust
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Next/React/Express
 - 👨‍💻 &nbsp;Read more about my projects at [dantulpa.pro](https://dantulpa.pro/#project)
