@@ -1,10 +1,10 @@
 ### Howdy! 
 <a href="https://dantulpa.pro/"><img src="https://media.giphy.com/media/RpfIXomvjCh8I/giphy.gif" width="50%"></a>
 
-This is the place where I opensource stuff and break things :rofl:
+My name is Dan Tulpa. I am a Full-Stack developer that has a passion for creating new, innovative web platforms! 💻
 
-- 🔭 &nbsp;I’m currently working on a [Clone of Medium News](https://dtulpa-medium-clone.netlify.app/) using ONLY Next.js & TailwindCSS
-- 🌱 &nbsp;I’m currently learning Next.js, Supabase, & Nest.js
+- 🔭 &nbsp;I’m currently working on a passion project called [**DevQuest**](https://dev-quest.netlify.app/)
+- 🌱 &nbsp;I’m currently learning Next.js, SupaBase, & Nest.js
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Next/React/Express
 - 👨‍💻 &nbsp;Read more about my projects at [dantulpa.pro](https://dantulpa.pro/#project)
 - ⚡ &nbsp;Fun fact: I hiked over 130 miles & 30k feet elevation in 2023
