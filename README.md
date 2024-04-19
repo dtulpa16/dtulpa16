@@ -3,7 +3,7 @@
 
 My name is Dan Tulpa. I am a Full-Stack developer that has a passion for creating new, innovative web platforms! 💻
 
-- 🔭 &nbsp;I’m currently working on a passion project called [**DevQuest**](https://dev-quest.netlify.app/)
+- 🔭 &nbsp;I’m currently working on a passion project called [**DevQuest**](https://devquestcareers.com/)
 - 🌱 &nbsp;I’m currently learning Next.js, SupaBase, & Nest.js
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Next/React/Express
 - 👨‍💻 &nbsp;Read more about my projects at [dantulpa.pro](https://dantulpa.pro/#project)
