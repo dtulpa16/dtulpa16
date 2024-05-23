@@ -32,8 +32,8 @@
 ### 🔗 Feel Free To Connect With Me!
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Connect_with_me-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" height="30">
-  <img src="https://img.shields.io/badge/Follow_me-12100E?style=flat-square&logo=medium" alt="Medium" height="30">
+  <a href="https://www.linkedin.com/in/daniel-tulpa/"><img src="https://img.shields.io/badge/Connect_with_me-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" height="30"></a>
+  <a href="https://medium.com/@dtulpa16"><img  src="https://img.shields.io/badge/Follow_me-12100E?style=flat-square&logo=medium" alt="Medium" height="30"></a>
 </p>
 
 
